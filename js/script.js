@@ -77,16 +77,16 @@ window.console.log(string);
 
 // STEP 10 *******
 /*
-"year" 
-let c = 345;    
-
-true   
-null
+let a = "year"; 
+let b = 345;    
+let c = true;   
+let d = new Object();
+let e;
+window.console.log(typeof a);
+window.console.log(typeof b);
 window.console.log(typeof c);
-window.console.log(typeof "year");
-window.console.log(typeof 345);
-window.console.log(typeof 345);
-
+window.console.log(typeof d);
+window.console.log(typeof e);
 */
 
 // STEP 11
@@ -98,7 +98,7 @@ window.console.log(typeof 345);
 // window.alert("Hello " + name + " Welcome to the Javascript class!");
 
 
-// STEP 13 *****
+// STEP 13 
 /*
 let name = "Alisa";
 let course = "JavaScript";
@@ -120,7 +120,7 @@ let course = "JavaScript";
 window.alert("Hello " + name + "\n" + "Welcome to the " + course + " class!");
 */
 
-// STEP 16 *****
+// STEP 16 
 /*
 let name = window.prompt("What's your name?");
 let course = prompt("What class are yoou taking?");
@@ -175,7 +175,7 @@ let widget = new Object();
 window.console.log(typeof widget);
 */
 
-// STEP 24  ******
+// STEP 24  
 
 /*
 let widget = new Object();
